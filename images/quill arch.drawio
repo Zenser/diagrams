@@ -1,0 +1,46 @@
+<mxfile host="app.diagrams.net" modified="2022-11-13T12:50:48.570Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36 Edg/106.0.1370.52" etag="m7qi9UOMEJpux-Y--AUm" version="20.5.3" type="github">
+  <diagram id="mE23QX5sSd_lECu9_ozG" name="第 1 页">
+    <mxGraphModel dx="946" dy="647" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="noeYtrJuOUGvwrGD-Wgy-12" value="quill" style="rounded=1;whiteSpace=wrap;html=1;verticalAlign=top;" parent="1" vertex="1">
+          <mxGeometry x="140" y="150" width="480" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="noeYtrJuOUGvwrGD-Wgy-1" value="Delta&lt;br&gt;&lt;div class=&quot;lake-content&quot;&gt;&lt;span class=&quot;ne-text&quot;&gt;数据层&lt;/span&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="140" y="390" width="210" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="noeYtrJuOUGvwrGD-Wgy-2" value="Parchment&lt;br&gt;&lt;div class=&quot;lake-content&quot;&gt;文档模型&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="380" y="480" width="240" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="noeYtrJuOUGvwrGD-Wgy-3" value="quill-blots&lt;br&gt;基于 Parchment 的常用元素封装" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="380" y="390" width="240" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="noeYtrJuOUGvwrGD-Wgy-5" value="quill-core&lt;br&gt;" style="rounded=1;whiteSpace=wrap;html=1;verticalAlign=top;" parent="1" vertex="1">
+          <mxGeometry x="140" y="260" width="480" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="noeYtrJuOUGvwrGD-Wgy-6" value="Editor&lt;br&gt;编辑器" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="205" y="300" width="70" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="noeYtrJuOUGvwrGD-Wgy-7" value="Selection&lt;br&gt;选区" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="285" y="300" width="70" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="noeYtrJuOUGvwrGD-Wgy-8" value="Module&lt;br&gt;模块" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="365" y="300" width="70" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="noeYtrJuOUGvwrGD-Wgy-9" value="Theme&lt;br&gt;主题" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="445" y="300" width="70" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="noeYtrJuOUGvwrGD-Wgy-10" value="UI&lt;br&gt;&lt;div class=&quot;lake-content&quot;&gt;常用组件&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="160" y="180" width="70" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="noeYtrJuOUGvwrGD-Wgy-11" value="Inset Theme&lt;br&gt;内置主题(snow/bubble)" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="470" y="180" width="100" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="noeYtrJuOUGvwrGD-Wgy-13" value="quill-formats&lt;br&gt;常用格式封装(Inline/Block/Embed)" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="240" y="180" width="220" height="50" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
