@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-11-13T12:39:53.018Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36 Edg/106.0.1370.52" etag="prCXXnkB_8rWEjdqDI_y" version="20.5.3" type="github">
+<mxfile host="app.diagrams.net" modified="2022-11-13T12:46:06.128Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36 Edg/106.0.1370.52" etag="bSKcKXNCCt6TmWVgqtlN" version="20.5.3" type="github">
   <diagram id="mE23QX5sSd_lECu9_ozG" name="第 1 页">
     <mxGraphModel dx="901" dy="616" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -19,16 +19,16 @@
         <mxCell id="noeYtrJuOUGvwrGD-Wgy-5" value="quill-core&lt;br&gt;" style="rounded=1;whiteSpace=wrap;html=1;verticalAlign=top;" vertex="1" parent="1">
           <mxGeometry x="140" y="260" width="480" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="noeYtrJuOUGvwrGD-Wgy-6" value="Editor" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="noeYtrJuOUGvwrGD-Wgy-6" value="Editor&lt;br&gt;编辑器" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="205" y="300" width="70" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="noeYtrJuOUGvwrGD-Wgy-7" value="Selection" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="noeYtrJuOUGvwrGD-Wgy-7" value="Selection&lt;br&gt;选区" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="285" y="300" width="70" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="noeYtrJuOUGvwrGD-Wgy-8" value="Module" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="noeYtrJuOUGvwrGD-Wgy-8" value="Module&lt;br&gt;模块" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="365" y="300" width="70" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="noeYtrJuOUGvwrGD-Wgy-9" value="Theme" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="noeYtrJuOUGvwrGD-Wgy-9" value="Theme&lt;br&gt;主题" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="445" y="300" width="70" height="40" as="geometry" />
         </mxCell>
         <mxCell id="noeYtrJuOUGvwrGD-Wgy-10" value="UI&lt;br&gt;&lt;div class=&quot;lake-content&quot;&gt;常用组件&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
