@@ -1,3 +1,3 @@
 # diagrams
 
-diagrams 站点图表储存
+[diagrams](http://diagrams.net/) 站点图表储存
